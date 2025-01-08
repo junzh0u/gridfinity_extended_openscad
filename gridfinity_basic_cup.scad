@@ -92,7 +92,7 @@ enable_magnets = true;
 // Enable screws
 enable_screws = true;
 //size of magnet, diameter and height. Zack's original used 6.5 and 2.4
-magnet_size = [6.5, 2.4];  // .1
+magnet_size = [6.2, 2.4];  // .1
 //create relief for magnet removal
 magnet_easy_release = "auto";//["off","auto","inner","outer"] 
 // raise the magnet void inside the part for print-in-magnets

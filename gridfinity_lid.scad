@@ -19,7 +19,7 @@ Lid_Options = "default";//[default, flat:Flat Removes the internal grid from bas
 // Enable magnets in the bin corner
 Enable_Magnets = true;
 //size of magnet, diameter and height. Zacks original used 6.5 and 2.4 
-Magnet_Size = [6.5, 2.4];  // .1
+Magnet_Size = [6.2, 2.4];  // .1
 //Reduce the frame wall size to this value
 Reduced_Wall_Height = -1; //0.1
 

@@ -48,7 +48,7 @@ handle_rotate = false;
 drawer_wall_thickness = 2;
 drawer_base = "default"; //[grid:Grid only, floor:floor only, default:Grid and floor]
 drawer_enable_magnet = true;
-drawer_magnet_size = [6.5, 2.4];  // .1
+drawer_magnet_size = [6.2, 2.4];  // .1
 
 /* [Chest Top Plate] */
 chest_top_wallpattern_style = "none"; //[none, grid, gridrotated, hexgrid,hexgridrotated, voronoi,voronoigrid,voronoihexgrid]
@@ -57,7 +57,7 @@ chest_top_style = "none"; //[none: None, baseplate:Base Plate, lugs: Supportless
 // Enable magnets in the bin corner
 chest_top_base_plate_enable_magnets = true;
 // (Zack's design uses magnet diameter of 6.5, 2.4)
-chest_top_base_plate_magnet_size = [6.5, 2.4];  // .1
+chest_top_base_plate_magnet_size = [6.2, 2.4];  // .1
 //Reduce the frame wall size to this value
 chest_top_base_plate_reduced_wall_height = -1; //0.1
 chest_top_base_plate_reduced_wall_taper = false; 
