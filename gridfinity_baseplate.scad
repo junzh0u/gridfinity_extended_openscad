@@ -35,7 +35,7 @@ build_plate_size = [200,250];
 // Enable magnets in the bin corner
 Enable_Magnets = false;
 //size of magnet, diameter and height. Zacks original used 6.5 and 2.4 
-Magnet_Size = [6.5, 2.4];  // .1
+Magnet_Size = [6.2, 2.4];  // .1
 //raises the magnet, and creates a floor (for gluding)
 Magnet_Z_Offset = 0;  // .1
 
