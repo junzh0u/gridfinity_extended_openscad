@@ -248,7 +248,7 @@ extension_tab_size= [10,0,0,0];
 
 /* [Bottom Text] */
 // Add bin size to bin bottom
-text_1 = false;
+text_1 = true;
 // Font Size of text, in mm (0 will auto size)
 text_size = 0; // 0.1
 // Depth of text, in mm
