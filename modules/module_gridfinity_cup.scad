@@ -1504,5 +1504,3 @@ module FingerSlide(
       }
     }
 }
-
-;
